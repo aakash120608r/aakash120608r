@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/assets/banner-image.png" alt="banner" style="max-width: 100%;">
+  <img src="https://github.com/aakash120608r/aakash120608r/assets/banner-image.png" alt="banner" style="max-width: 100%;">
 </p>
 
-<h1 align="center">Hi, I'm Aakash R</h1>
+<h1 align="center">Hi, I'm Akash R</h1>
 
 <p align="center">
   Tech enthusiast • Problem solver • Lifelong learner
